@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\bin\Debug\net8.0\BookManagmentSystem.exe
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\bin\Debug\net8.0\BookManagmentSystem.deps.json
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\bin\Debug\net8.0\BookManagmentSystem.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\bin\Debug\net8.0\BookManagmentSystem.dll
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\bin\Debug\net8.0\BookManagmentSystem.pdb
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.dll
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\refint\BookManagmentSystem.dll
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.pdb
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\BookManagmentSystem.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\BookManagmentSystem\obj\Debug\net8.0\ref\BookManagmentSystem.dll
